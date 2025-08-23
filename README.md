@@ -8,13 +8,13 @@
 
   ## 🛠 Tech Stack
   <p>
-    <img src="https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=FFD43B"/>&nbsp;
-    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
-    <img src="https://img.shields.io/badge/intellij-IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/java-%2361DAFB.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/python-%2361DAFB.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/kotlin-%2361DAFB.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/git-%2361DAFB.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/github-%2361DAFB.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/vscode-%2361DAFB.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
+    <img src="https://img.shields.io/badge/intellij-IDEA-%2361DAFB.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>&nbsp;
   </p>
 
   ## 📊 GitHub Insights
@@ -37,14 +37,12 @@
 
   ## 📅 Contribution Activity
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0dingKai&theme=react-dark&hide_border=true&bg_color=1B1F23&color=61DAFB&line=21A1F1&point=21F1C1" alt="Contribution Graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0dingKai&theme=react-dark&hide_border=true&bg_color=1B1F23&color=61DAFB&line=61DAFB&point=61DAFB" alt="Contribution Graph"/>
   </p>
 
   ## 🌐 Connect with Me
   <p>
-    <a href="https://twitter.com/C0dingKai" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>&nbsp;
-    <a href="https://linkedin.com/in/C0dingKai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-    <a href="https://github.com/C0dingKai" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
-    <a href="https://discord.gg/yourdiscord" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://github.com/C0dingKai" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2361DAFB.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+    <a href="https://discord.gg/eYNSgAKuWb" target="_blank"><img src="https://img.shields.io/badge/Discord-%2361DAFB.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
 </div>
