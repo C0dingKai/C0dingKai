@@ -1,12 +1,10 @@
 <div align="center">
-  <h1>⚡ C0dingKai</h1>
-  <p><i>Full-Stack Developer • AI Enthusiast • Open Source Advocate</i></p>
+  <h1>C0dingKai</h1>
 
   ## 👨‍💻 About Me
-  🖥️ Passionate about building robust backend systems and scalable APIs. <br>
-  ⚙️ Exploring AI, machine learning, and modern web technologies like <a href="https://nextjs.org" target="_blank">Next.js</a> & <a href="https://react.dev" target="_blank">React</a>. <br>
-  🌍 Active contributor to open-source projects and developer communities. <br>
-  📚 Lifelong learner, always experimenting with new tools and languages.  
+   Passionate about building robust backend systems and scalable APIs. <br>
+   Active contributor to open-source projects and developer communities. <br>
+   Lifelong learner, always experimenting with new tools and languages.  
 
   ## 🛠 Tech Stack
   <p>
