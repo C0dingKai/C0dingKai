@@ -27,14 +27,6 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=C0dingKai&theme=radical" height="160"/>
   </p>
 
-  ## 🏆 Achievements & Projects
-  <p>
-    - Open-source contributor to multiple AI and web projects. <br>
-    - Built and deployed full-stack apps using Next.js + Node.js. <br>
-    - Participated in hackathons & coding competitions. <br>
-    - Automated workflows with GitHub Actions and CI/CD pipelines.
-  </p>
-
   ## 📅 Contribution Activity
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=C0dingKai&theme=react-dark&hide_border=true&bg_color=1B1F23&color=61DAFB&line=61DAFB&point=61DAFB" alt="Contribution Graph"/>
